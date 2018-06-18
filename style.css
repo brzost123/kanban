@@ -1,0 +1,20 @@
+body {
+  background-image:   url("https://image.freepik.com/darmowe-zdjecie/fajne-t%C5%82o-2_21043150.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  pdding-bottom: 0;
+  text-align: center;
+}
+
+button {
+  color: blue;
+  font-size: 20px;
+}
+
+h1 {
+  color: black;
+}
+
+.column-title {
+  color: yellow;
+}
